@@ -1,0 +1,21 @@
+# Base de datos
+pymongo==4.7.2
+motor==3.4.0
+
+# Variables de entorno
+python-dotenv==1.0.1
+
+# API
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# Embeddings y ML
+sentence-transformers==3.0.1
+torch==2.3.1
+
+# Chunking
+langchain==0.2.6
+langchain-text-splitters==0.2.2
+
+# Evaluación (nota extra)
+ragas==0.1.9
