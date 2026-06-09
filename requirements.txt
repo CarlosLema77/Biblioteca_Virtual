@@ -19,3 +19,7 @@ langchain-text-splitters==0.2.2
 
 # Evaluación (nota extra)
 ragas==0.1.9
+
+
+groq==0.9.0
+pydantic==2.7.1
