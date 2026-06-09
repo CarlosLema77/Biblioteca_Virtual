@@ -17,14 +17,14 @@ from models.schemas import (
 
 def create_collection(db, name: str, schema: dict):
     """
-    S: Solo crea una colección con su schema validation
-    O: Acepta cualquier schema sin modificar la función
+    S: Crea o actualiza una colección con su schema validation
     """
     try:
         db.create_collection(name, validator=schema)
-        print(f"Colección '{name}' creada")
+        print(f"  ✅ Colección '{name}' creada")
     except CollectionInvalid:
-        print(f"Colección '{name}' ya existe, omitiendo...")
+        db.command("collMod", name, validator=schema)
+        print(f"  🔄 Colección '{name}' actualizada")
 
 
 def create_indexes(db):
@@ -65,7 +65,7 @@ def create_indexes(db):
 
 def init_database():
     """
-    Función principal que orquesta la inicialización completa
+    Función principal 
     """
     print("Inicializando base de datos biblioteca_virtual...\n")
     

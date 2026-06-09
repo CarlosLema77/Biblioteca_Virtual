@@ -58,7 +58,7 @@ SCHEMA_AUTORES = {
 SCHEMA_IMAGENES = {
     "$jsonSchema": {
         "bsonType": "object",
-        "required": ["libro_id", "tipo", "url", "formato"],
+        "required": ["libro_id", "tipo", "formato", "fecha_carga"],
         "properties": {
             "libro_id":         { "bsonType": "objectId" },
             "tipo": {
@@ -66,6 +66,7 @@ SCHEMA_IMAGENES = {
                 "enum": ["portada", "ilustracion"]
             },
             "url":              { "bsonType": "string" },
+            "path_local":       { "bsonType": "string" },
             "formato":          { "bsonType": "string" },
             "resolucion":       { "bsonType": "string" },
             "embedding_visual": { "bsonType": "array" },

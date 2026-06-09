@@ -1,0 +1,452 @@
+[
+  {
+    "libro_titulo": "Don Quijote de la Mancha",
+    "nombre_archivo": "don_quijote_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\don_quijote_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.335117+00:00"
+  },
+  {
+    "libro_titulo": "Don Quijote de la Mancha",
+    "nombre_archivo": "don_quijote_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\don_quijote_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.335117+00:00"
+  },
+  {
+    "libro_titulo": "Don Quijote de la Mancha",
+    "nombre_archivo": "don_quijote_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\don_quijote_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.335117+00:00"
+  },
+  {
+    "libro_titulo": "Don Quijote de la Mancha",
+    "nombre_archivo": "don_quijote_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\don_quijote_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.335117+00:00"
+  },
+  {
+    "libro_titulo": "Don Quijote de la Mancha",
+    "nombre_archivo": "don_quijote_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\don_quijote_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.335117+00:00"
+  },
+  {
+    "libro_titulo": "Drácula",
+    "nombre_archivo": "dracula_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\dracula_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.336618+00:00"
+  },
+  {
+    "libro_titulo": "Drácula",
+    "nombre_archivo": "dracula_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\dracula_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.336618+00:00"
+  },
+  {
+    "libro_titulo": "Drácula",
+    "nombre_archivo": "dracula_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\dracula_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.337132+00:00"
+  },
+  {
+    "libro_titulo": "Drácula",
+    "nombre_archivo": "dracula_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\dracula_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.337132+00:00"
+  },
+  {
+    "libro_titulo": "Drácula",
+    "nombre_archivo": "dracula_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\dracula_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.337132+00:00"
+  },
+  {
+    "libro_titulo": "El Conde de Montecristo",
+    "nombre_archivo": "conde_montecristo_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\conde_montecristo_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.337132+00:00"
+  },
+  {
+    "libro_titulo": "El Conde de Montecristo",
+    "nombre_archivo": "conde_montecristo_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\conde_montecristo_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.337132+00:00"
+  },
+  {
+    "libro_titulo": "El Conde de Montecristo",
+    "nombre_archivo": "conde_montecristo_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\conde_montecristo_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.338145+00:00"
+  },
+  {
+    "libro_titulo": "El Conde de Montecristo",
+    "nombre_archivo": "conde_montecristo_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\conde_montecristo_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.338145+00:00"
+  },
+  {
+    "libro_titulo": "El Conde de Montecristo",
+    "nombre_archivo": "conde_montecristo_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\conde_montecristo_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.338145+00:00"
+  },
+  {
+    "libro_titulo": "Sherlock Holmes: A Study in Scarlet",
+    "nombre_archivo": "sherlock_home_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\sherlock_home_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.338145+00:00"
+  },
+  {
+    "libro_titulo": "Sherlock Holmes: A Study in Scarlet",
+    "nombre_archivo": "sherlock_home_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\sherlock_home_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.338145+00:00"
+  },
+  {
+    "libro_titulo": "Sherlock Holmes: A Study in Scarlet",
+    "nombre_archivo": "sherlock_home_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\sherlock_home_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.339521+00:00"
+  },
+  {
+    "libro_titulo": "Sherlock Holmes: A Study in Scarlet",
+    "nombre_archivo": "sherlock_home_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\sherlock_home_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.339521+00:00"
+  },
+  {
+    "libro_titulo": "Sherlock Holmes: A Study in Scarlet",
+    "nombre_archivo": "sherlock_home_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\sherlock_home_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.339521+00:00"
+  },
+  {
+    "libro_titulo": "Frankenstein",
+    "nombre_archivo": "Frankenstein_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\Frankenstein_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.339521+00:00"
+  },
+  {
+    "libro_titulo": "Frankenstein",
+    "nombre_archivo": "Frankenstein_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\Frankenstein_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.339521+00:00"
+  },
+  {
+    "libro_titulo": "Frankenstein",
+    "nombre_archivo": "Frankenstein_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\Frankenstein_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.340599+00:00"
+  },
+  {
+    "libro_titulo": "Frankenstein",
+    "nombre_archivo": "Frankenstein_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\Frankenstein_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.340599+00:00"
+  },
+  {
+    "libro_titulo": "Frankenstein",
+    "nombre_archivo": "Frankenstein_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\Frankenstein_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.340599+00:00"
+  },
+  {
+    "libro_titulo": "Orgullo y Prejuicio",
+    "nombre_archivo": "orgullo_prejuicio_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\orgullo_prejuicio_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.340599+00:00"
+  },
+  {
+    "libro_titulo": "Orgullo y Prejuicio",
+    "nombre_archivo": "orgullo_prejuicio_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\orgullo_prejuicio_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.341610+00:00"
+  },
+  {
+    "libro_titulo": "Orgullo y Prejuicio",
+    "nombre_archivo": "orgullo_prejuicio_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\orgullo_prejuicio_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.341610+00:00"
+  },
+  {
+    "libro_titulo": "Orgullo y Prejuicio",
+    "nombre_archivo": "orgullo_prejuicio_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\orgullo_prejuicio_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.341610+00:00"
+  },
+  {
+    "libro_titulo": "Orgullo y Prejuicio",
+    "nombre_archivo": "orgullo_prejuicio_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\orgullo_prejuicio_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.341610+00:00"
+  },
+  {
+    "libro_titulo": "20,000 Leguas de Viaje Submarino",
+    "nombre_archivo": "20.000_leguas_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\20.000_leguas_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.341610+00:00"
+  },
+  {
+    "libro_titulo": "20,000 Leguas de Viaje Submarino",
+    "nombre_archivo": "20.000_leguas_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\20.000_leguas_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.341610+00:00"
+  },
+  {
+    "libro_titulo": "20,000 Leguas de Viaje Submarino",
+    "nombre_archivo": "20.000_leguas_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\20.000_leguas_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.342612+00:00"
+  },
+  {
+    "libro_titulo": "20,000 Leguas de Viaje Submarino",
+    "nombre_archivo": "20.000_leguas_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\20.000_leguas_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.342612+00:00"
+  },
+  {
+    "libro_titulo": "20,000 Leguas de Viaje Submarino",
+    "nombre_archivo": "20.000_leguas_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\20.000_leguas_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.343123+00:00"
+  },
+  {
+    "libro_titulo": "El Principito",
+    "nombre_archivo": "principito_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\principito_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.343123+00:00"
+  },
+  {
+    "libro_titulo": "El Principito",
+    "nombre_archivo": "principito_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\principito_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.343123+00:00"
+  },
+  {
+    "libro_titulo": "El Principito",
+    "nombre_archivo": "principito_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\principito_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.343123+00:00"
+  },
+  {
+    "libro_titulo": "El Principito",
+    "nombre_archivo": "principito_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\principito_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.343123+00:00"
+  },
+  {
+    "libro_titulo": "El Principito",
+    "nombre_archivo": "principito_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\principito_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.344137+00:00"
+  },
+  {
+    "libro_titulo": "La Metamorfosis",
+    "nombre_archivo": "metamorfosis_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\metamorfosis_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.345139+00:00"
+  },
+  {
+    "libro_titulo": "La Metamorfosis",
+    "nombre_archivo": "metamorfosis_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\metamorfosis_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.345139+00:00"
+  },
+  {
+    "libro_titulo": "La Metamorfosis",
+    "nombre_archivo": "metamorfosis_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\metamorfosis_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.345139+00:00"
+  },
+  {
+    "libro_titulo": "La Metamorfosis",
+    "nombre_archivo": "metamorfosis_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\metamorfosis_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.345139+00:00"
+  },
+  {
+    "libro_titulo": "La Metamorfosis",
+    "nombre_archivo": "metamorfosis_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\metamorfosis_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.345139+00:00"
+  },
+  {
+    "libro_titulo": "El Arte de la Guerra",
+    "nombre_archivo": "arte_guerra_1.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\arte_guerra_1.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.345139+00:00"
+  },
+  {
+    "libro_titulo": "El Arte de la Guerra",
+    "nombre_archivo": "arte_guerra_2.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\arte_guerra_2.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.346536+00:00"
+  },
+  {
+    "libro_titulo": "El Arte de la Guerra",
+    "nombre_archivo": "arte_guerra_3.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\arte_guerra_3.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.346536+00:00"
+  },
+  {
+    "libro_titulo": "El Arte de la Guerra",
+    "nombre_archivo": "arte_guerra_4.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\arte_guerra_4.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.346536+00:00"
+  },
+  {
+    "libro_titulo": "El Arte de la Guerra",
+    "nombre_archivo": "arte_guerra_5.png",
+    "tipo": "portada",
+    "formato": "png",
+    "path_local": "data\\imagenes\\arte_guerra_5.png",
+    "modelo_vision": "clip-vit-base-patch32",
+    "fecha_carga": "2026-06-09T00:32:19.346536+00:00"
+  }
+]
