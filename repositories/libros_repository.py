@@ -53,6 +53,9 @@ def get_complete_book(id):
             filename = os.path.basename(img["path_local"])
             img["url"] = f"/static/imagenes/{filename}"
 
+        img.pop("embedding_visual", None)
+        img.pop("modelo_vision", None)
+
     imagenes = parse_mongo_document(imagenes)
 
     # Buscar libros relacionados (mismo autor, excepto el actual)
