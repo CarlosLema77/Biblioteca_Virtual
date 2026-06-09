@@ -75,7 +75,6 @@ def ingest_libros(db, libros: list, autores_map: dict) -> dict:
             "tipo":              libro["tipo"],
             "premium":           libro["premium"],
             "descripcion":       libro["descripcion"],
-            "texto_completo":    libro["texto_completo"],
             "resenias":          [],
             "chunks_ids":        [],
             "fecha_publicacion": datetime.now(timezone.utc)

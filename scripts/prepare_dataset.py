@@ -178,7 +178,7 @@ def prepare_libros() -> list:
             "premium":           meta["premium"],
             "fecha_publicacion": meta["fecha_publicacion"],
             "descripcion":       meta["descripcion"],
-            "texto_completo":    texto,
+            "nombre_archivo":    meta["nombre_archivo"],
             "nombre_archivo":    meta["nombre_archivo"],
             "resenias":          [],
             "chunks_ids":        []
